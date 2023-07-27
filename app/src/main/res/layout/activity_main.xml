@@ -24,7 +24,11 @@
             android:textColorHint="@color/white"
             android:textDirection="rtl"
             android:textColor="@color/white"
+<<<<<<< HEAD
             android:textSize="20dp"></EditText>
+=======
+            android:textSize="20sp" />
+>>>>>>> 7b4fbd6 (This is my second Commit.)
 
         <TextView
             android:id="@+id/output"
@@ -59,11 +63,16 @@
                 android:layout_height="match_parent"
                 android:layout_marginBottom="10dp">
 
+<<<<<<< HEAD
                 <Button
+=======
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/AC"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="AC"
@@ -72,11 +81,25 @@
                 </Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="AC"
+                    android:textSize="20sp">
+
+                </androidx.appcompat.widget.AppCompatButton>
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/no"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:background="@drawable/buttondesign"
+<<<<<<< HEAD
                     android:soundEffectsEnabled="true"
                     android:text="+/-"
                     android:textSize="20dp">
@@ -84,24 +107,52 @@
                 </Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:soundEffectsEnabled="true"
+                    android:text="+/-"
+                    android:textSize="20sp">
+
+                </androidx.appcompat.widget.AppCompatButton>
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/percentage"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="%"
                     android:textSize="20dp"></Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="%"
+                    android:textSize="20sp" />
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/div"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="/"
                     android:textSize="20dp"></Button>
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="/"
+                    android:textSize="20sp" />
+>>>>>>> 7b4fbd6 (This is my second Commit.)
 
 
             </TableRow>
@@ -111,11 +162,16 @@
                 android:layout_height="match_parent"
                 android:layout_marginBottom="10dp">
 
+<<<<<<< HEAD
                 <Button
+=======
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/seven"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="7"
@@ -124,10 +180,22 @@
                 </Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="7"
+                    android:textSize="20sp">
+
+                </androidx.appcompat.widget.AppCompatButton>
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/eight"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="8"
@@ -136,24 +204,53 @@
                 </Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="8"
+                    android:textSize="20sp">
+
+                </androidx.appcompat.widget.AppCompatButton>
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/nine"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="9"
                     android:textSize="20dp"></Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="9"
+                    android:textSize="20sp"/>
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/mul"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="*"
                     android:textSize="20dp"></Button>
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="*"
+                    android:textSize="20sp" />
+>>>>>>> 7b4fbd6 (This is my second Commit.)
 
 
             </TableRow>
@@ -163,11 +260,16 @@
                 android:layout_height="match_parent"
                 android:layout_marginBottom="10dp">
 
+<<<<<<< HEAD
                 <Button
+=======
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/four"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="4"
@@ -176,10 +278,22 @@
                 </Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="4"
+                    android:textSize="20sp">
+
+                </androidx.appcompat.widget.AppCompatButton>
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/five"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="5"
@@ -188,24 +302,53 @@
                 </Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="5"
+                    android:textSize="20sp">
+
+                </androidx.appcompat.widget.AppCompatButton>
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/six"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="6"
                     android:textSize="20dp"></Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="6"
+                    android:textSize="20sp" />
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/sub"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="-"
                     android:textSize="20dp"></Button>
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="-"
+                    android:textSize="20sp" />
+>>>>>>> 7b4fbd6 (This is my second Commit.)
 
 
             </TableRow>
@@ -215,11 +358,16 @@
                 android:layout_height="match_parent"
                 android:layout_marginBottom="10dp">
 
+<<<<<<< HEAD
                 <Button
+=======
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/one"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="1"
@@ -228,10 +376,22 @@
                 </Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="1"
+                    android:textSize="20sp">
+
+                </androidx.appcompat.widget.AppCompatButton>
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/two"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="2"
@@ -240,24 +400,53 @@
                 </Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="2"
+                    android:textSize="20sp">
+
+                </androidx.appcompat.widget.AppCompatButton>
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/three"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="3"
                     android:textSize="20dp"></Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="3"
+                    android:textSize="20sp" />
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/add"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="+"
                     android:textSize="20dp"></Button>
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="+"
+                    android:textSize="20sp" />
+>>>>>>> 7b4fbd6 (This is my second Commit.)
 
 
             </TableRow>
@@ -267,11 +456,16 @@
                 android:layout_height="match_parent"
                 android:layout_marginBottom="10dp">
 
+<<<<<<< HEAD
                 <Button
+=======
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/reset"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="R"
@@ -280,10 +474,22 @@
                 </Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="R"
+                    android:textSize="20sp">
+
+                </androidx.appcompat.widget.AppCompatButton>
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/zero"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="0"
@@ -292,24 +498,53 @@
                 </Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="0"
+                    android:textSize="20sp">
+
+                </androidx.appcompat.widget.AppCompatButton>
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/dot"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="."
                     android:textSize="20dp"></Button>
 
                 <Button
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="."
+                    android:textSize="20sp" />
+
+                <androidx.appcompat.widget.AppCompatButton
+>>>>>>> 7b4fbd6 (This is my second Commit.)
                     android:id="@+id/equals"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
+<<<<<<< HEAD
                     android:background="@drawable/buttondesign"
                     android:soundEffectsEnabled="true"
                     android:text="="
                     android:textSize="20dp"></Button>
+=======
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttondesign"
+                    android:soundEffectsEnabled="true"
+                    android:text="="
+                    android:textSize="20sp" />
+>>>>>>> 7b4fbd6 (This is my second Commit.)
 
 
             </TableRow>

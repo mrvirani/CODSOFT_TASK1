@@ -14,13 +14,9 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     EditText Input;
-
     TextView Output;
-
     Float res1,res2;
-
     Button one,two,three,four,five,six,seven,eight,nine,zero,ac,no,dot,equals,reset,badd,bsub,bmul,bdiv,bpercentage;
-
     Boolean add,sub,mul,div,percentage;
 
     void clear()
